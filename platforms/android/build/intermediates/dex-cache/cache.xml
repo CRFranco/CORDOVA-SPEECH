@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\cristiano.franco\cordova-speech3\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4b3cc646cdf392c400a8a422ad24c06ac6f772b">
+        <dex dex="C:\Users\cristiano.franco\cordova-speech3\platforms\android\build\intermediates\pre-dexed\debug\classes-873065b676549d7302823a6eb1585ee7372c0795.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,2 @@
+C:\Users\cristiano.franco\cordova-speech3\platforms\android\build\intermediates\classes\debug
+C:\Users\cristiano.franco\cordova-speech3\platforms\android\build\intermediates\pre-dexed\debug\classes-873065b676549d7302823a6eb1585ee7372c0795.jar
